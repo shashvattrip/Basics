@@ -1,0 +1,14 @@
+1. Print all nodes that are at distance k from a leaf node.
+http://www.geeksforgeeks.org/print-nodes-distance-k-leaf-node/
+
+
+2.Print all nodes that don’t have sibling
+http://www.geeksforgeeks.org/print-nodes-dont-sibling-binary-tree/
+
+
+3.Print Left View of a Binary Tree
+http://www.geeksforgeeks.org/print-left-view-binary-tree/
+
+4. Bottom View of a Binary Tree
+http://www.geeksforgeeks.org/bottom-view-binary-tree/
+
